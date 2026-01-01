@@ -1,0 +1,9 @@
+{
+	"configurations": [
+		{
+			"name": "zephyr-modern-cpp",
+			"intelliSenseMode": "gcc-arm"
+		}
+	],
+	"version": 4
+}
