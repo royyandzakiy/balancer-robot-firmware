@@ -4,15 +4,16 @@
 
 - v1
     - copy from zephyr modern cpp. empty main.cpp, start fresh
+    - ble: peripheral, uart
+    - implement in real hardware (use nrf5340dk as devkit, use xiao ble as final board)
+- v2
     - implement base of app event manager, event folder
-    - create base foldering for seperation of concerns
-    - ble: slave, uart
+        - create base foldering for seperation of concerns
     - connect & pwm on led
     - connect & read imu
     - implement feedback loop: pid, controls led
-    - buy & implement in real hardware (use nrf5340dk as devkit, use xiao ble as final board)
-- v2
-    - TBD
+- v3
+    - ble ota
 
 ### Feature Backlog
 
