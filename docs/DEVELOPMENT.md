@@ -10,7 +10,7 @@
     - connect & pwm on led
     - connect & read imu
     - implement feedback loop: pid, controls led
-    - buy & implement in real hardware
+    - buy & implement in real hardware (use nrf5340dk as devkit, use xiao ble as final board)
 - v2
     - TBD
 
